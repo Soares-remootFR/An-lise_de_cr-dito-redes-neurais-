@@ -1,8 +1,10 @@
 # Analise_de_credito-redes-neurais-
 
-#Construção de um modelo de redes neurais para avaliação de liberação de credito.
-#Através da análise das variáveis e do dicionário, algumas informações relevantes:
-Variáveis categóricas:
+Construção de um modelo de redes neurais para avaliação de liberação de credito.
+
+Através da análise das variáveis e do dicionário, algumas informações relevantes:
+
+1- Variáveis categóricas:
 Personal Loan (Empréstimo Pessoal) Este cliente aceitou o empréstimo pessoal oferecido na última campanha? Esta é a nossa variável alvo;
 Securities Account (Conta de títulos) O cliente possui conta de títulos no banco?
 CD Account (Conta de CD) O cliente tem uma conta de certificado de depósito (CD) no banco?
