@@ -4,6 +4,6 @@ Modelo de estudo desenvolvido para analise de aprovacao de credito para clientes
 
 2- Limpeza e tratamento dos dados;
 
-3- Criacao do modelo de predicao.
+3- Criação do modelo de predicao.
 
 
