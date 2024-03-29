@@ -6,4 +6,6 @@ Modelo de estudo desenvolvido para análise de aprovação de crédito para clie
 
 3- Criação do modelo de predição.
 
+4- Acurácia.
+
 
